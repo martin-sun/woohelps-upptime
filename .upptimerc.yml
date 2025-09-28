@@ -32,20 +32,8 @@ sites:
     
   - name: Ticktheorder
     url: https://www.ticktheorder.com
-    method: HEAD
-    expectedStatusCodes:
-      - 200
-      - 301
-      - 302
-    maxResponseTime: 10000   # 毫秒，超过将记为慢 
   - name: Summer Palace
     url: https://www.summerpalace.ca
-    method: HEAD
-    expectedStatusCodes:
-      - 200
-      - 301
-      - 302
-    maxResponseTime: 10000   # 毫秒，超过将记为慢 
   - name: Woohelps-Cloud
     url: https://cloud.woohelps.com
     method: HEAD
