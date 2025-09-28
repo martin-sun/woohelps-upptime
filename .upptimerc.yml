@@ -80,20 +80,8 @@ sites:
     maxResponseTime: 10000   # 毫秒，超过将记为慢 
   - name: Beanflow-api
     url: https://api.beanflow.ai
-    method: HEAD
-    expectedStatusCodes:
-      - 200
-      - 301
-      - 302
-    maxResponseTime: 10000   # 毫秒，超过将记为慢 
   - name: Beanflow
     url: https://www.beanflow.ai
-    method: HEAD
-    expectedStatusCodes:
-      - 200
-      - 301
-      - 302
-    maxResponseTime: 10000   # 毫秒，超过将记为慢 
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
