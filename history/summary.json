@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 465,
-    "timeWeek": 465,
-    "timeMonth": 465,
-    "timeYear": 465,
+    "time": 392,
+    "timeDay": 392,
+    "timeWeek": 392,
+    "timeMonth": 392,
+    "timeYear": 392,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 779,
-    "timeDay": 779,
-    "timeWeek": 779,
-    "timeMonth": 779,
-    "timeYear": 779,
+    "time": 664,
+    "timeDay": 664,
+    "timeWeek": 664,
+    "timeMonth": 664,
+    "timeYear": 664,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1020,
-    "timeDay": 1020,
-    "timeWeek": 1020,
-    "timeMonth": 1020,
-    "timeYear": 1020,
+    "time": 938,
+    "timeDay": 938,
+    "timeWeek": 938,
+    "timeMonth": 938,
+    "timeYear": 938,
     "dailyMinutesDown": {}
   },
   {
@@ -58,19 +58,19 @@
     "url": "https://merchant.woohelps.com",
     "icon": "https://icons.duckduckgo.com/ip3/merchant.woohelps.com.ico",
     "slug": "woohelps-merchant",
-    "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "7.44%",
+    "uptimeDay": "7.44%",
+    "uptimeWeek": "7.44%",
+    "uptimeMonth": "7.44%",
+    "uptimeYear": "7.44%",
+    "time": 209,
+    "timeDay": 209,
+    "timeWeek": 209,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-09-28": 1
+      "2025-09-28": 8
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ticktheorder.com.ico",
     "slug": "ticktheorder",
     "status": "down",
-    "uptime": "1.36%",
-    "uptimeDay": "1.36%",
-    "uptimeWeek": "1.36%",
-    "uptimeMonth": "1.36%",
-    "uptimeYear": "1.36%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 1
+      "2025-09-28": 8
     }
   },
   {
@@ -99,38 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.summerpalace.ca.ico",
     "slug": "summer-palace",
     "status": "down",
-    "uptime": "34.94%",
-    "uptimeDay": "34.94%",
-    "uptimeWeek": "34.94%",
-    "uptimeMonth": "34.94%",
-    "uptimeYear": "34.94%",
+    "uptime": "6.22%",
+    "uptimeDay": "6.22%",
+    "uptimeWeek": "6.22%",
+    "uptimeMonth": "6.22%",
+    "uptimeYear": "6.22%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 1
-    }
-  },
-  {
-    "name": "Summer Palace",
-    "url": "https://www.summerpalace.ca",
-    "icon": "https://icons.duckduckgo.com/ip3/www.summerpalace.ca.ico",
-    "slug": "summer-palace",
-    "status": "down",
-    "uptime": "35.29%",
-    "uptimeDay": "35.29%",
-    "uptimeWeek": "35.29%",
-    "uptimeMonth": "35.29%",
-    "uptimeYear": "35.29%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-09-28": 1
+      "2025-09-28": 8
     }
   },
   {
@@ -139,18 +119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.woohelps.com.ico",
     "slug": "woohelps-cloud",
     "status": "down",
-    "uptime": "4.02%",
-    "uptimeDay": "4.02%",
-    "uptimeWeek": "4.02%",
-    "uptimeMonth": "4.02%",
-    "uptimeYear": "4.02%",
+    "uptime": "0.44%",
+    "uptimeDay": "0.44%",
+    "uptimeWeek": "0.44%",
+    "uptimeMonth": "0.44%",
+    "uptimeYear": "0.44%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 0
+      "2025-09-28": 7
     }
   },
   {
@@ -159,18 +139,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sms.woohelps.com.ico",
     "slug": "woohelps-sms",
     "status": "down",
-    "uptime": "0.62%",
-    "uptimeDay": "0.62%",
-    "uptimeWeek": "0.62%",
-    "uptimeMonth": "0.62%",
-    "uptimeYear": "0.62%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 0
+      "2025-09-28": 7
     }
   },
   {
@@ -184,11 +164,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 395,
-    "timeWeek": 395,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "time": 242,
+    "timeDay": 242,
+    "timeWeek": 242,
+    "timeMonth": 242,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   },
   {
@@ -202,11 +182,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 425,
-    "timeWeek": 425,
-    "timeMonth": 425,
-    "timeYear": 425,
+    "time": 260,
+    "timeDay": 260,
+    "timeWeek": 260,
+    "timeMonth": 260,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   },
   {
@@ -215,18 +195,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.beanflow.ai.ico",
     "slug": "beanflow-api",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 0
+      "2025-09-28": 7
     }
   },
   {
@@ -235,18 +215,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.beanflow.ai.ico",
     "slug": "beanflow",
     "status": "down",
-    "uptime": "6.08%",
-    "uptimeDay": "6.08%",
-    "uptimeWeek": "6.08%",
-    "uptimeMonth": "6.08%",
-    "uptimeYear": "6.08%",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 0
+      "2025-09-28": 7
     }
   }
 ]
