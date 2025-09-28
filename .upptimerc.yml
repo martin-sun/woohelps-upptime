@@ -3,9 +3,111 @@ owner: martin-sun # Your GitHub organization or username, where this repository 
 repo: woohelps-upptime # The name of this repository
 
 sites:
-  - name: Woohelps
+  - name: Woohelps-com
     url: https://www.woohelps.com
-
+    method: HEAD
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    maxResponseTime: 10000   # 毫秒，超过将记为慢   
+  - name: Woohelps-cn
+    url: https://www.woohelps.cn
+    method: HEAD
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    maxResponseTime: 10000   # 毫秒，超过将记为慢   
+  - name: Catalysis Division
+    url: https://www.catalysisdivision.ca/
+    method: HEAD
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    maxResponseTime: 10000   # 毫秒，超过将记为慢 
+  - name: Woohelps-merchant
+    url: https://merchant.woohelps.com
+    method: HEAD
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    maxResponseTime: 10000   # 毫秒，超过将记为慢   
+  - name: Ticktheorder
+    url: https://www.ticktheorder.com
+    method: HEAD
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    maxResponseTime: 10000   # 毫秒，超过将记为慢 
+  - name: Summer Palace
+    url: https://www.summerpalace.ca
+    method: HEAD
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    maxResponseTime: 10000   # 毫秒，超过将记为慢 
+  - name: Summer Palace
+    url: https://www.summerpalace.ca
+    method: HEAD
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    maxResponseTime: 10000   # 毫秒，超过将记为慢 
+  - name: Woohelps-Cloud
+    url: https://cloud.woohelps.com
+    method: HEAD
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    maxResponseTime: 10000   # 毫秒，超过将记为慢   
+  - name: Woohelps-SMS
+    url: https://sms.woohelps.com
+    method: HEAD
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    maxResponseTime: 10000   # 毫秒，超过将记为慢   
+  - name: Woohelps-API
+    url: https://api.woohelps.com
+    method: HEAD
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    maxResponseTime: 10000   # 毫秒，超过将记为慢   
+  - name: Woohelps-service
+    url: https://service.woohelps.com
+    method: HEAD
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    maxResponseTime: 10000   # 毫秒，超过将记为慢 
+  - name: Beanflow-api
+    url: https://api.beanflow.ai
+    method: HEAD
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    maxResponseTime: 10000   # 毫秒，超过将记为慢 
+  - name: Beanflow
+    url: https://www.beanflow.ai
+    method: HEAD
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    maxResponseTime: 10000   # 毫秒，超过将记为慢 
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
