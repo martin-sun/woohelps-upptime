@@ -40,19 +40,19 @@
     "url": "https://www.catalysisdivision.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.catalysisdivision.ca.ico",
     "slug": "catalysis-division",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 1515,
-    "timeDay": 1515,
-    "timeWeek": 1515,
-    "timeMonth": 1515,
-    "timeYear": 1515,
+    "status": "up",
+    "uptime": "96.81%",
+    "uptimeDay": "96.81%",
+    "uptimeWeek": "96.81%",
+    "uptimeMonth": "96.81%",
+    "uptimeYear": "96.81%",
+    "time": 1451,
+    "timeDay": 1451,
+    "timeWeek": 1451,
+    "timeMonth": 1451,
+    "timeYear": 1451,
     "dailyMinutesDown": {
-      "2025-09-28": 1
+      "2025-09-28": 21
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://merchant.woohelps.com",
     "icon": "https://icons.duckduckgo.com/ip3/merchant.woohelps.com.ico",
     "slug": "woohelps-merchant",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1191,
-    "timeDay": 1191,
-    "timeWeek": 1191,
-    "timeMonth": 1191,
-    "timeYear": 1191,
+    "status": "up",
+    "uptime": "96.83%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "96.83%",
+    "uptimeYear": "96.83%",
+    "time": 966,
+    "timeDay": 966,
+    "timeWeek": 966,
+    "timeMonth": 966,
+    "timeYear": 966,
     "dailyMinutesDown": {
-      "2025-09-28": 1
+      "2025-09-28": 21
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 652
+      "2025-09-28": 673
     }
   },
   {
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 652
+      "2025-09-28": 673
     }
   },
   {
@@ -132,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 651
+      "2025-09-28": 672
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 651
+      "2025-09-28": 672
     }
   },
   {
@@ -208,7 +208,7 @@
     "timeMonth": 282,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2025-09-28": 651
+      "2025-09-28": 672
     }
   },
   {
