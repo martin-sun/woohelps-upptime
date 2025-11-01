@@ -139,7 +139,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-01": 82,
+      "2025-11-01": 128,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
@@ -193,7 +193,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-01": 82,
+      "2025-11-01": 128,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
@@ -283,7 +283,7 @@
     "timeMonth": 218,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-11-01": 82,
+      "2025-11-01": 128,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
@@ -325,19 +325,19 @@
     "url": "https://www.beanflow.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.beanflow.ai.ico",
     "slug": "beanflow",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "93.44%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.80%",
-    "time": 412,
-    "timeDay": 228,
-    "timeWeek": 406,
-    "timeMonth": 411,
-    "timeYear": 412,
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "90.25%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.71%",
+    "time": 406,
+    "timeDay": 218,
+    "timeWeek": 383,
+    "timeMonth": 404,
+    "timeYear": 406,
     "dailyMinutesDown": {
-      "2025-11-01": 82,
+      "2025-11-01": 128,
       "2025-10-31": 13
     }
   }
