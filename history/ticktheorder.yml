@@ -1,7 +1,7 @@
 url: https://www.ticktheorder.com
-status: down
-code: 502
-responseTime: 3197
-lastUpdated: 2025-11-05T23:40:10.568Z
+status: up
+code: 200
+responseTime: 401
+lastUpdated: 2025-11-05T23:51:29.786Z
 startTime: 2025-09-28T11:16:17.668Z
 generator: Upptime <https://github.com/upptime/upptime>
