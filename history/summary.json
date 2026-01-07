@@ -92,11 +92,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ticktheorder.com.ico",
     "slug": "ticktheorder",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.46%",
+    "uptimeYear": "99.47%",
     "time": 425,
     "timeDay": 256,
     "timeWeek": 326,
@@ -113,18 +113,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.summerpalace.ca.ico",
     "slug": "summer-palace",
     "status": "down",
-    "uptime": "45.83%",
+    "uptime": "45.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.83%",
+    "uptimeYear": "45.52%",
     "time": 231,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2026-01-07": 86,
+      "2026-01-07": 1074,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
@@ -208,7 +208,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 86,
+      "2026-01-07": 1074,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
@@ -329,7 +329,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 86,
+      "2026-01-07": 1074,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
@@ -438,9 +438,9 @@
     "url": "https://api.woohelps.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.woohelps.com.ico",
     "slug": "woohelps-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -449,16 +449,18 @@
     "timeWeek": 223,
     "timeMonth": 278,
     "timeYear": 254,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-07": 0
+    }
   },
   {
     "name": "Woohelps-service",
     "url": "https://service.woohelps.com",
     "icon": "https://icons.duckduckgo.com/ip3/service.woohelps.com.ico",
     "slug": "woohelps-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -467,7 +469,9 @@
     "timeWeek": 212,
     "timeMonth": 228,
     "timeYear": 243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-07": 0
+    }
   },
   {
     "name": "Beanflow-api",
@@ -486,7 +490,7 @@
     "timeMonth": 259,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2026-01-07": 86,
+      "2026-01-07": 1074,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
